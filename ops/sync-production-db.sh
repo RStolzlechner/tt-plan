@@ -6,7 +6,7 @@ REMOTE_SSH_HOST="test.tauerntec.at"
 REMOTE_SSH_USER="tauerntec"
 
 REMOTE_DB_HOST="127.0.0.1"
-REMOTE_DB_PORT="5432"
+REMOTE_DB_PORT="5433"
 REMOTE_DB_NAME="tt_test"
 REMOTE_DB_USER="tauerntec"
 
