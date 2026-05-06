@@ -16,7 +16,7 @@ LOCAL_DB_NAME="tt_test"
 LOCAL_DB_USER="tauerntec"
 LOCAL_DB_PASSWORD="my-super-secure-pw"
 
-DUMP_FILE="/tmp/vorderegger_prod_dump.sql"
+DUMP_FILE="/tmp/tt_plan_prod_dump.sql"
 # ==========================
 
 echo "==> Dumping remote database..."
