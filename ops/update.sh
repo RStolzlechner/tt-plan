@@ -3,7 +3,7 @@ set -e
 
 echo "Deployment started..."
 
-cd /opt/app/ops
+cd /opt/tt-plan/ops
 
 echo "Loading environment..."
 set -a
