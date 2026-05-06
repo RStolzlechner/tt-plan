@@ -2,7 +2,7 @@ name: deploy to v-server
 
 on:
   push:
-    branches: [maser]
+    branches: [master]
 
 jobs:
   deploy-to-server:
