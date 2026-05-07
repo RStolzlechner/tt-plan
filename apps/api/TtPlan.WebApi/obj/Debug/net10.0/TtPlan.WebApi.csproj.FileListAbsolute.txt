@@ -32,3 +32,8 @@
 /home/ricardo/Source/tt-plan/apps/api/TtPlan.WebApi/obj/Debug/net10.0/TtPlan.WebApi.pdb
 /home/ricardo/Source/tt-plan/apps/api/TtPlan.WebApi/obj/Debug/net10.0/TtPlan.WebApi.genruntimeconfig.cache
 /home/ricardo/Source/tt-plan/apps/api/TtPlan.WebApi/obj/Debug/net10.0/ref/TtPlan.WebApi.dll
+/home/ricardo/Source/tt-plan/apps/api/TtPlan.WebApi/bin/Debug/net10.0/Dapper.dll
+/home/ricardo/Source/tt-plan/apps/api/TtPlan.WebApi/bin/Debug/net10.0/Npgsql.dll
+/home/ricardo/Source/tt-plan/apps/api/TtPlan.WebApi/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/ricardo/Source/tt-plan/apps/api/TtPlan.WebApi/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/ricardo/Source/tt-plan/apps/api/TtPlan.WebApi/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll

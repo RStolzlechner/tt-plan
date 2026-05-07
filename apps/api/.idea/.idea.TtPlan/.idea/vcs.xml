@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../../../amporia" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../ff-wald" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../ff-wald-old/ff-wald-cms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../ff-wald-old/ff-wald-web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../nindl-sybille" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../revotec/ng-cap-fb-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../revotec/revotec-sensorhub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../sporkulex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../steger-franz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../tauerntec-site" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../tischlerei-lachmayr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../vorderegger" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../web-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../yoshie/yoshie-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../yoshie/yoshie-devops" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../yoshie/yoshie-frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../yoshie/yoshie-notebooks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../yoshie/yoshie-server" vcs="Git" />
+  </component>
+</project>

@@ -1,4 +1,11 @@
 - [x] Sicherung DB
 - [] .NET API aufsetzen (Endpunkte realisieren SQL's)
+  - []Repos (Interfaces are defined)
+  - []Repo-Tests
+  - []Services
+  - []Controller
+  - [] Auth
+  - [] Docker + build and push
+  - [] Production Docker Compose + call it from production
 - [] Webapp aufsetzen (Möglichkeiten der Endpunkte abdecken)
 - [] Mit Capacitor Handyapp umsetzen

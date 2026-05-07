@@ -106,3 +106,8 @@
 /home/ricardo/Source/tt-plan/apps/api/TtPlan.WebApi.Tests/obj/Debug/net10.0/TtPlan.WebApi.Tests.pdb
 /home/ricardo/Source/tt-plan/apps/api/TtPlan.WebApi.Tests/obj/Debug/net10.0/TtPlan.WebApi.Tests.genruntimeconfig.cache
 /home/ricardo/Source/tt-plan/apps/api/TtPlan.WebApi.Tests/obj/Debug/net10.0/ref/TtPlan.WebApi.Tests.dll
+/home/ricardo/Source/tt-plan/apps/api/TtPlan.WebApi.Tests/bin/Debug/net10.0/Dapper.dll
+/home/ricardo/Source/tt-plan/apps/api/TtPlan.WebApi.Tests/bin/Debug/net10.0/Npgsql.dll
+/home/ricardo/Source/tt-plan/apps/api/TtPlan.WebApi.Tests/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/ricardo/Source/tt-plan/apps/api/TtPlan.WebApi.Tests/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/ricardo/Source/tt-plan/apps/api/TtPlan.WebApi.Tests/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll

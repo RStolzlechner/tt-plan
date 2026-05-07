@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TtPlan.WebApi.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a922e7b351864594ec017792221c9ab7a1582e75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2e0e03312a614cf8dd451ad2b7c9a51b7017da5")]
 [assembly: System.Reflection.AssemblyProductAttribute("TtPlan.WebApi.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TtPlan.WebApi.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
