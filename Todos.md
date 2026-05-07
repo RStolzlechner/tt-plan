@@ -1,4 +1,4 @@
-- [] Sicherung DB
+- [x] Sicherung DB
 - [] .NET API aufsetzen (Endpunkte realisieren SQL's)
 - [] Webapp aufsetzen (Möglichkeiten der Endpunkte abdecken)
 - [] Mit Capacitor Handyapp umsetzen

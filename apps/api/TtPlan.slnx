@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TtPlan.WebApi.Tests/TtPlan.WebApi.Tests.csproj" />
+  <Project Path="TtPlan.WebApi/TtPlan.WebApi.csproj" />
+</Solution>
